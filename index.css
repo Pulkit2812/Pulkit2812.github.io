@@ -193,3 +193,20 @@ footer{
     font-family: 'Bree Serif', serif;
     font-size: 1.3rem;
 }
+.btn{
+    font-family: 'Baloo Bhai 2', cursive;
+    background-color: transparent;
+    color: white;
+    margin: 20px auto;
+    padding: 4px 14px;
+    font-size: 20px;
+    border: 2px solid grey;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+}
+button{
+    display: block;
+    width: 23%;
+    margin: 20px auto;
+}
